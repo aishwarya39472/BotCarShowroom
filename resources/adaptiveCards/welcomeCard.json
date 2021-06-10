@@ -1,0 +1,22 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "Welcome to Maruthi car showroom bot "
+        },
+        {
+            "type": "TextBlock",
+            "text": "This car showroom bot will provide the user to book  different brands of car and allows the user to book the car and view the particular car details ,if user have to cancel the booking then it also allows the user to cancel the booking of particular car.",
+            "wrap": true
+        },
+        {
+            "type": "Image",
+            "url": "https://im.rediff.com/money/2021/jun/07maruti-digital-1.jpg?w=670&h=900"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.3"
+}
